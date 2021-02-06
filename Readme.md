@@ -2,9 +2,9 @@
 
 ## Funcionalidades
 
-. CRUD para Driver;
-. CRUD para Insurance;
-. Consulta de Insurance pelo número.
+- CRUD para Driver;
+- CRUD para Insurance;
+- Consulta de Insurance pelo número.
 
 ## Documentação
 
@@ -15,6 +15,6 @@ Dockerfile com o servidor mongo para testes
 
 ## Features futuras
 
-. Testes unitários
-. Container docker para gerar Jar
-. Ferramenta de docker-compose para subir jar+mongo
+- Testes unitários
+- Container docker para gerar Jar
+- Ferramenta de docker-compose para subir jar+mongo
